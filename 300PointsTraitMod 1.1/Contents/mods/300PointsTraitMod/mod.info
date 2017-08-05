@@ -1,0 +1,4 @@
+name=300 Points Trait
+poster=300PointsTraitPoster.png
+description= Adds a 'negative' (red) trait that gives you 300 extra points and does nothing else.
+id=300PointsTrait
