@@ -1,5 +1,5 @@
 version=1
-id=899287010
+id=000000000
 title=+300 Points Trait
 description=Adds a 'negative' (red) trait that gives you 300 extra points to spend.
 description=Does Nothing Else.
