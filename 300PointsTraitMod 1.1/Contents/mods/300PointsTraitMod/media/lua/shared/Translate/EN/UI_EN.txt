@@ -1,4 +1,0 @@
-UI_EN = {
-UI_trait_300Points = "300 Points",
-UI_trait_300PointsDesc = "Adds 300 Points to Spend on traits",
-}
