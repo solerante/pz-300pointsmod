@@ -1,0 +1,12 @@
+"workshopitem"
+{
+	"appid"		"108600"
+	"publishedfileid"		"899287010"
+	"contentfolder"		"/media/peu/1TB/works/zomboid/pz-300pointsmod/300PointsTraitMod/Contents"
+	"previewfile"		"/media/peu/1TB/works/zomboid/pz-300pointsmod/300PointsTraitMod/Preview.png"
+	"visibility"		"0"
+	"title"		"+300 Points Trait"
+	"description"		"Adds a 'negative' (red) trait that gives you 300 extra points to spend.
+    Does Nothing Else."
+	"changenote"		"update to 42.13.1"
+}

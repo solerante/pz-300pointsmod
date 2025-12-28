@@ -1,0 +1,5 @@
+UI_EN = 
+{
+    UI_trait_threehundredpoints = "300 points",
+    UI_trait_threehundredpointsDesc = "Get 300 points to spend on traits."
+}

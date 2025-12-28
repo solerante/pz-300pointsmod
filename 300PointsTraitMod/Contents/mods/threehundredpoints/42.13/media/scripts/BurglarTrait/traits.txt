@@ -1,0 +1,12 @@
+module threehundredpoints
+{
+    character_trait_definition threehundredpoints:threehundredpoints
+    {
+        IsProfessionTrait = false,
+        DisabledInMultiplayer = false,
+        CharacterTrait = threehundredpoints:threehundredpoints,
+        Cost = -300,
+        UIName = UI_trait_threehundredpoints,
+        UIDescription = UI_trait_threehundredpointsDesc,
+    }
+}

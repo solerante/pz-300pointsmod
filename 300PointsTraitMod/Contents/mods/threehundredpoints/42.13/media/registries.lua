@@ -1,0 +1,1 @@
+CharacterTrait.register("threehundredpoints:threehundredpoints")
